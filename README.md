@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @yugh88<br>👀 I’m interested in coding and building projects<br>🌱 I’m currently learning Java , Web and App development , Web3<br>💞️ I’m looking to collaborate on projects<br>📫 You can reach me via my gmail account i.e yugjuneja2003@gmail.com
+👋 Hi, I’m Yugh Juneja (@yugh88)<br><br>	•	👀 Interests: Coding, building innovative projects, and exploring emerging technologies<br>	•	🌱 Currently Learning: Java, Web & App Development, and Web3<br>	•	💞️ Open to Collaborate: I’m excited to work on impactful projects and connect with fellow developers!<br>	•	📫 Reach Me: yugjuneja2003@gmail.com
 
 
 ## 🌐 Socials:
