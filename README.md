@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF2E88&center=true&vCenter=true&width=650&lines=CSE+%40+VIT+Bhopal+%E2%80%A2+Class+of+2027;Ex-Software+Dev+Intern+%40+FOSSEE%2C+IIT+Bombay;Amazon+ML+Summer+School+2026;I+build+AI+agents+that+recover+real+revenue+%F0%9F%92%B8;NASA+Space+Apps+Top+10+%E2%80%A2+Codeforces+Pupil" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF2E88&center=true&vCenter=true&width=650&lines=CSE+%40+VIT+Bhopal+%E2%80%A2+Class+of+2027;Ex-Software+Dev+Intern+%40+FOSSEE%2C+IIT+Bombay;Amazon+ML+Summer+School+2026;I+build+AI+agents+that+recover+real+revenue+%F0%9F%92%B8;NASA+Space+Apps+Top+10+%E2%80%A2+Codeforces+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -174,7 +174,7 @@ Financial literacy & tools for rural women — **80%** of the user base.
 | 🥉 | **3rd Place — IEEE NSIT Ideathon** (AI collaboration system) | 90+ teams |
 | 🛒 | **Top 10% — Flipkart GRiD 7.0** | 1.6 lakh+ participants |
 | 💡 | **EY Techathon 5.0** — ranked 1,749 | 1M+ participants |
-| ⚔️ | **Pupil** on Codeforces | Competitive programming |
+| ⚔️ | **Specialist** on Codeforces | Competitive programming |
 
 </details>
 
