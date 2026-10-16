@@ -23,7 +23,7 @@
 ```python
 class Yugh:
     location   = "Delhi, India 🇮🇳"
-    education  = "B.Tech CSE @ VIT Bhopal (2023–2027) · GPA 8.41"
+    education  = "B.Tech CSE @ VIT (2023–2027)"
     currently  = ["Building autonomous AI agents", "Shipping hackathon MVPs", "Grinding Codeforces"]
     experience = {
         "FOSSEE, IIT Bombay": "Software Developer Intern — Osdag (Oct 2025 – May 2026)",
