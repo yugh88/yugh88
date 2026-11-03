@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
+<defs>
+<linearGradient id="base" x1="0" x2="1"><stop offset="0" stop-color="#ff2e88" stop-opacity="0"/><stop offset=".5" stop-color="#7b5cff" stop-opacity=".6"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="spark" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#ff2e88"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect x="0" y="11" width="900" height="2" fill="url(#base)"/>
+<g><animateTransform attributeName="transform" type="translate" values="-220 0;900 0" dur="3.2s" repeatCount="indefinite"/>
+<rect x="0" y="9" width="220" height="6" rx="3" fill="url(#spark)" filter="url(#g)"/>
+<rect x="0" y="11" width="220" height="2" fill="url(#spark)"/></g>
+<circle cx="450.0" cy="12" r="4" fill="#ff2e88"><animate attributeName="r" values="3;6;3" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.4;1" dur="1.6s" repeatCount="indefinite"/></circle>
+</svg>
