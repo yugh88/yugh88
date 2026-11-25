@@ -79,33 +79,78 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3>💸 Revora</h3>
-  <b>Autonomous Revenue Recovery Agent</b>
-  <p>Detects failed-payment scenarios and picks recovery actions across <b>5 revenue-loss categories</b>.</p>
+  <h3>🔥 Splitfire</h3>
+  <b>Collision-proof task graphs for parallel coding agents</b>
+  <p>Paste a GitHub repo + a feature request → a task graph that several coding agents can run <b>at the same time</b>, each with its own contract, context pack, cost estimate and acceptance checks.</p>
   <ul>
-    <li>🧠 7-stage <b>LangGraph</b> workflow + LLM validation</li>
-    <li>📈 Gradient Boosting classifier — <b>91.2% accuracy</b></li>
-    <li>✅ <b>1,244 automated tests</b> · idempotency + concurrency control</li>
-    <li>🐳 Dockerized FastAPI + Redis backend, Next.js UI</li>
+    <li>🧩 <b>0 file collisions</b>: every file has exactly one owner</li>
+    <li>⚡ Real plan: <b>1h 36m serial → 46m parallel (2.1×)</b></li>
+    <li>📦 Context packs: <b>8.8k tokens</b> vs <b>428.8k</b> for the whole repo</li>
+    <li>🌳 tree-sitter import graph · LLM proposes, deterministic code repairs</li>
   </ul>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Upstash_Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel"/>
+  <br/><br/>
+  <a href="https://splitfire-one.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
+  <a href="https://github.com/yugh88/splitfire"><img src="https://img.shields.io/badge/Code-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" valign="top">
   <h3>🩺 ThaliTwin</h3>
   <b>Personalized Diabetes Digital Twin</b>
   <p>EHR-conditioned physiological–neural twin trained on <b>161 patients</b> across 3 public cohorts.</p>
   <ul>
-    <li>📉 Glucose forecasts up to <b>2 h</b> ahead — <b>20.5 mg/dL RMSE</b></li>
+    <li>📉 Glucose forecasts up to <b>2 h</b> ahead: <b>20.5 mg/dL RMSE</b></li>
     <li>⚠️ Spike prediction <b>0.558 AUPRC</b> (5.5× base rate), <b>84%</b> caught at ≤1 false alarm/day</li>
-    <li>🎯 EnKF personalization + adaptive conformal — <b>90.3%</b> coverage, <b>50-min</b> median lead</li>
+    <li>🎯 EnKF personalization + adaptive conformal: <b>90.3%</b> coverage, <b>50-min</b> median lead</li>
   </ul>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LightGBM-02569B?style=flat-square"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <br/><br/>
+  <a href="https://thalitwin.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
+  <a href="https://github.com/yugh88/WINPRO_VIT-Bhopal-University"><img src="https://img.shields.io/badge/Code-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3>🏭 UdyamPulse</h3>
+  <b>Credit backed by your production, not your property</b><br/>
+  <sub>🏦 Visionet Talent Quest 2026 · Team Legit (Tech Lead)</sub>
+  <p>MSME underwriting + early warning on consented GST, e-way bill, bank, power and payroll data, for small manufacturers that banks can't see.</p>
+  <ul>
+    <li>📊 Factory Health Score (300–900): LightGBM + SHAP reasons, <b>AUC 0.848</b></li>
+    <li>🚨 Early warning catches stress <b>~90 days</b> before SMA-2 (synthetic back-test)</li>
+    <li>📝 Policy-cited credit-memo agent · hash-chained audit trail · Hindi MSME app</li>
+    <li>✅ <b>220+ tests</b> incl. Playwright + axe · <b>915 accounts/s</b> nightly batch</li>
+  </ul>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LightGBM-02569B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <br/><br/>
+  <a href="https://udyampulse-demo.onrender.com/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0F172A?style=for-the-badge&logo=render&logoColor=38bdf8"/></a>
+  <a href="https://github.com/yugh88/UdyamPulse"><img src="https://img.shields.io/badge/Code-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" valign="top">
+  <h3>🗣️ Haanji</h3>
+  <b>Voice agents for Indian businesses, set up by voice</b>
+  <p>The owner describes their business by voice in any Indian language and gets a voice agent that answers every customer, in the customer's language.</p>
+  <ul>
+    <li>⚡ <b>~1.15 s p90</b> typed / <b>~1.5 s p90</b> voice to first reply audio (measured live)</li>
+    <li>🎙️ Barge-in that remembers what was heard · owner's cloned voice (with consent)</li>
+    <li>🛡️ Emergency-first safety lines · Aadhaar/PAN masked before any model sees them</li>
+    <li>🧠 Gnani Prisma (STT) + Timbre (TTS) + GPT-OSS 120B on Groq</li>
+  </ul>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <br/><br/>
+  <a href="https://haanji.onrender.com/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0F172A?style=for-the-badge&logo=render&logoColor=38bdf8"/></a>
+  <a href="https://github.com/yugh88/haanji"><img src="https://img.shields.io/badge/Code-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
@@ -123,41 +168,25 @@
   <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <br/><br/>
+  <a href="https://github.com/yugh88/VIT_YughJuneja_Hackathon"><img src="https://img.shields.io/badge/Code-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" valign="top">
-  <h3>🏗️ Osdag (Open Source)</h3>
-  <b>Open Steel Design &amp; Graphics — FOSSEE, IIT Bombay</b>
+  <h3>🚦 Greenlight</h3>
+  <b>How hard is it to get your OAuth app approved?</b>
+  <p>For the <b>262 of 387</b> Composio OAuth toolkits where you bring your own OAuth app, Greenlight shows the difficulty, the real time to production (review queue included), the blockers, and what an agent can do for you.</p>
   <ul>
-    <li>🧮 IS 800:2007-compliant design modules</li>
-    <li>🌉 Osdag Bridge components per IRC guidelines</li>
-    <li>🖥️ PySide6 desktop → React web migration</li>
-    <li>👷 Used by <b>10,000+</b> structural engineers</li>
+    <li>🤖 Live agent investigates any app in 1–2 min · 10 curated gold guides</li>
+    <li>🔎 Every claim labelled <b>tested</b>, <b>sourced</b> or <b>uncertain</b>; quotes re-fetched and verified</li>
+    <li>🎯 Eval: <b>100% precision</b>, <b>96%</b> valid citations</li>
   </ul>
-  <img src="https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>🪙 Dhan-Niti</h3>
-  <b>Multilingual Financial App</b>
-  <p>Financial literacy &amp; tools for rural women — <b>80%</b> of the user base.</p>
-  <ul>
-    <li>🌐 Chatbot in <b>8 regional languages</b></li>
-    <li>🔐 Clerk auth · Firestore · RapidAPI</li>
-  </ul>
-  <img src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</td>
-<td width="50%" valign="top">
-  <h3>🌾 Crop Monitoring ML Pipeline</h3>
-  <b>Satellite-style crop health detection</b>
-  <ul>
-    <li>🌲 Random Forest — <b>85.44% accuracy</b></li>
-    <li>🗺️ NDVI heat maps + <b>5 automated alerts</b> · <b>7 s</b> per image</li>
-  </ul>
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/-AI_SDK-000?style=flat-square&logo=vercel"/>
+  <img src="https://img.shields.io/badge/-Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Composio-1E293B?style=flat-square"/>
+  <br/><br/>
+  <a href="https://greenlight-blue-ten.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
+  <a href="https://github.com/yugh88/greenlight"><img src="https://img.shields.io/badge/Code-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 </table>
