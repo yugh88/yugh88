@@ -229,7 +229,7 @@
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 <h2>📊 GitHub Analytics</h2>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yugh88&show_icons=true&theme=dark&bg_color=0b111d&title_color=38bdf8&text_color=a9b4c6&icon_color=818cf8&ring_color=38bdf8&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yugh88&show_icons=true&theme=dark&bg_color=0b111d&title_color=38bdf8&text_color=a9b4c6&icon_color=818cf8&ring_color=38bdf8&hide_border=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugh88&layout=compact&theme=dark&bg_color=0b111d&title_color=38bdf8&text_color=a9b4c6&hide_border=true&langs_count=8"/>
 </p>
 <p align="center">
