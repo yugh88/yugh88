@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css,solidity&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,solidity&perline=7"/>
 </p>
 <p align="center">
   <b>Frameworks &amp; Libraries</b><br/>
