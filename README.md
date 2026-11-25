@@ -169,6 +169,7 @@
   <img src="https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <br/><br/>
+  <a href="https://sentinel-ntsl.onrender.com/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-0F172A?style=for-the-badge&logo=render&logoColor=38bdf8"/></a>
   <a href="https://github.com/yugh88/VIT_YughJuneja_Hackathon"><img src="https://img.shields.io/badge/Code-1E293B?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" valign="top">
