@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff2e88&height=240&section=header&text=Yugh%20Juneja&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Builder%20%E2%80%A2%20ML%20%2B%20Full-Stack%20%E2%80%A2%20ICPC%20Asia%20Regionalist&descAlignY=58&descSize=19&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:0b1424,100:173553&height=240&section=header&text=Yugh%20Juneja&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Builder%20%E2%80%A2%20ML%20%2B%20Full-Stack%20%E2%80%A2%20ICPC%20Asia%20Regionalist&descAlignY=58&descSize=19&animation=twinkling" width="100%"/>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=FF2E88&center=true&vCenter=true&width=820&lines=%F0%9F%8F%86+ICPC+Asia+Regionalist+2026-27;%E2%9A%94%EF%B8%8F+Codeforces+Specialist+(1513);%F0%9F%8F%97%EF%B8%8F+Ex-SDE+Intern+%40+FOSSEE%2C+IIT+Bombay;%F0%9F%A4%96+Amazon+ML+Summer+School+2026;%F0%9F%92%B8+I+build+AI+agents+that+recover+real+revenue;%F0%9F%A5%87+Alan+AI+OpenFire+Hackathon+Winner+2026;%F0%9F%93%88+S%26P+Global+%C3%97+CRISIL+Code+to+Connect+Semi-Finalist;%F0%9F%9A%80+NASA+Space+Apps+Top+10+Finalist" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=820&lines=%F0%9F%8F%86+ICPC+Asia+Regionalist+2026-27;%E2%9A%94%EF%B8%8F+Codeforces+Specialist+(1513);%F0%9F%8F%97%EF%B8%8F+Ex-SDE+Intern+%40+FOSSEE%2C+IIT+Bombay;%F0%9F%A4%96+Amazon+ML+Summer+School+2026;%F0%9F%92%B8+I+build+AI+agents+that+recover+real+revenue;%F0%9F%A5%87+Alan+AI+OpenFire+Hackathon+Winner+2026;%F0%9F%93%88+S%26P+Global+%C3%97+CRISIL+Code+to+Connect+Semi-Finalist;%F0%9F%9A%80+NASA+Space+Apps+Top+10+Finalist" alt="Typing SVG"/>
   </a>
 </p>
 <p align="center">
-  <a href="mailto:yugjuneja2003@gmail.com"><img src="https://img.shields.io/badge/Email-ff2e88?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yugjuneja2003@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yugh-juneja-a594a9281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/yugh88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=yugh88&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=yugh88&style=for-the-badge&color=1e3a5f&label=PROFILE+VIEWS"/>
 </p>
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 <!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
@@ -29,7 +29,7 @@
 <!-- ═══════════════════════════ TECH ═══════════════════════════ -->
 <h2>🛠️ Tech Arsenal</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=400&color=00E5FF&center=true&vCenter=true&width=600&lines=agents+%E2%86%92+LangGraph+%2B+FastAPI+%2B+Redis;models+%E2%86%92+PyTorch+%2B+LightGBM+%2B+Hugging+Face;frontends+%E2%86%92+React+%2B+Next.js+%2B+Tailwind;algorithms+%E2%86%92+C%2B%2B+on+Codeforces+%26+ICPC"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=400&color=818CF8&center=true&vCenter=true&width=600&lines=agents+%E2%86%92+LangGraph+%2B+FastAPI+%2B+Redis;models+%E2%86%92+PyTorch+%2B+LightGBM+%2B+Hugging+Face;frontends+%E2%86%92+React+%2B+Next.js+%2B+Tailwind;algorithms+%E2%86%92+C%2B%2B+on+Codeforces+%26+ICPC"/>
 </p>
 <p align="center">
   <b>Languages</b><br/>
@@ -161,7 +161,7 @@
 </td>
 </tr>
 </table>
-<p align="center"><a href="https://github.com/yugh88?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-ff2e88?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+<p align="center"><a href="https://github.com/yugh88?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-1E3A5F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 <h2>🏅 Trophy Cabinet</h2>
@@ -200,14 +200,14 @@
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 <h2>📊 GitHub Analytics</h2>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yugh88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugh88&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yugh88&show_icons=true&theme=dark&bg_color=0b111d&title_color=38bdf8&text_color=a9b4c6&icon_color=818cf8&ring_color=38bdf8&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugh88&layout=compact&theme=dark&bg_color=0b111d&title_color=38bdf8&text_color=a9b4c6&hide_border=true&langs_count=8"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yugh88&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=yugh88&theme=dark&background=0B111D&ring=38BDF8&fire=F5C451&currStreakNum=E6EDF6&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=A9B4C6&dates=6B7A90&stroke=1E293B&hide_border=true"/>
 </p>
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yugh88&theme=react-dark&bg_color=141321&color=ff2e88&line=fe428e&point=f8d847&hide_border=true&area=true"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yugh88&theme=react-dark&bg_color=0b111d&color=a9b4c6&title_color=38bdf8&line=38bdf8&point=f5c451&hide_border=true&area=true"/>
 </p>
 <p align="center">
   <picture>
@@ -220,8 +220,8 @@
 <h2>⚽ Off the Keyboard</h2>
 <blockquote>Football on weekends, hackathons on weeknights, and ICPC practice sets whenever the timing works out.</blockquote>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:302b63,100:0f0c29&height=130&section=footer&text=Let's%20build%20something%20that%20ships%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:173553,50:0b1424,100:05070d&height=130&section=footer&text=Let's%20build%20something%20that%20ships%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
 </p>
